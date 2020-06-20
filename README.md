@@ -1,8 +1,13 @@
 # Undertale-Saves-Editor
 This is an alternative of [Flowey's Time Machine](http://crumblingstatue.github.io/FloweysTimeMachine/)
 
-Website: https://tanjim-fuad-arik.github.io/Undertale-Saves-Editor/
+Clumbling Statue https://github.com/crumblingstatue/
 
+***
+
+  My Website: https://tanjim-fuad-arik.github.io/Undertale-Saves-Editor/
+
+My account: https://github.com/Tanjim-Fuad-Arik/
 
 > If you want to fork this. You can do that. You can do anything you want.
 
