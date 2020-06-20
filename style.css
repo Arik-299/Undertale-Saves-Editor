@@ -1,0 +1,164 @@
+body {
+    color: black;
+font-family:Helvetica;
+
+}
+
+form {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+legend {
+
+color:#444;
+
+}
+
+label {
+
+color:#444;
+
+}
+
+.heading {
+
+background:darkgray;
+width:100%;
+position:fixed;
+top:0px;
+left:0px;
+padding:3px;
+padding-left:20px;
+color:#444;
+
+
+}
+
+.footer {
+
+background:darkgray;
+position:;
+bottom:0px;
+left:0px;
+padding:10px;
+padding-left:20px;
+color:#444;
+margin-top: 20px;
+
+
+}
+
+.card {
+
+margin:5px;
+
+}
+
+input[type=text],select,input[type=file],input[type=checkbox]{
+
+margin:5px !important;
+
+}
+
+.btn-group {
+
+margin:5px !important;
+
+}
+
+.btn-group .btn {
+
+margin:0px !important;
+
+}
+
+.btn-group-vertical {
+
+margin:5px !important;
+
+}
+
+.btn-group-vertical .btn {
+
+margin:0px !important;
+
+}
+
+
+.btn {
+
+margin:5px;
+
+}
+
+.sidenav {
+  height: 92.4%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  bottom: 0;
+  left: 0;
+  background-color: #fcfcfc;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+ 
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+#main {
+  transition: margin-left .5s;
+  padding: 16px;
+}
+
+.input-group input {
+
+margin-left:-4px;
+
+}
+
+.input-group btn {
+
+margin-right:-4px;
+
+}
+
+.input-group {
+
+margin:5px;
+width:350px !important;
+
+}
+
+.sidenav > .sel {
+
+margin:5px !important;
+width:350px !important;
+
+}
+
+
+
+
+
+
