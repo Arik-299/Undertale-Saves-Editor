@@ -12,4 +12,4 @@ Website: https://tanjim-fuad-arik.github.io/Undertale-Saves-Editor/
 
 Made By Toby Fox
 
-Play the game [Undertale](https://undertale.com/)
+Play the game yourself: https://undertale.com/
